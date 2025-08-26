@@ -1,7 +1,7 @@
 repositories:
   cslam:
     type: git
-    url: https://github.com/Antus8/cslam
+    url: https://github.com/Antus8/NeBula_cslam
     version: feature/nebula_integration
   cslam_interfaces:
     type: git
